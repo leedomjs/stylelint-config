@@ -1,5 +1,5 @@
 {
-  "name": "@leedomjs/stylelint-config",
+  "name": "@leedomjs/stylelint-config-monorepo",
   "version": "0.0.0",
   "packageManager": "pnpm@8.6.12",
   "description": "Leedom's Stylelint config presets",
