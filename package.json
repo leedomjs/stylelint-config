@@ -22,7 +22,7 @@
     "lint:fix": "eslint . --fix",
     "lint:style": "stylelint **/*.{css,scss,sass,acss,wxss,vue}",
     "lint:style-fix": "stylelint **/*.{css,scss,sass,acss,wxss,vue} --fix",
-    "release": ""
+    "release": "bumpp -r && pnpm -r publish --access public"
   },
   "simple-git-hooks": {
     "pre-commit": "pnpm lint-staged"
