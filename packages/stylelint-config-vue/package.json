@@ -1,0 +1,33 @@
+{
+  "name": "@leedomjs/stylelint-config-vue",
+  "version": "0.0.0",
+  "description": "Leedom's Stylelint config presets",
+  "keywords": [
+    "stylelint-config",
+    "vue",
+    "scss"
+  ],
+  "author": "Leedom",
+  "license": "MIT",
+  "homepage": "https://github.com/leedomjs/stylelint-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leedomjs/stylelint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leedomjs/stylelint-config/issues"
+  },
+  "main": "index.js",
+  "peerDependencies": {
+    "stylelint": ">= 14"
+  },
+  "dependencies": {
+    "@leedomjs/stylelint-config-basic": "workspace:*",
+    "@leedomjs/stylelint-config-mini-program": "workspace:*",
+    "@leedomjs/stylelint-config-scss": "workspace:*",
+    "stylelint-config-recommended-vue": "^1.5.0"
+  },
+  "devDependencies": {
+    "stylelint": "^16.3.1"
+  }
+}

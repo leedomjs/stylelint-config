@@ -1,0 +1,26 @@
+{
+  "name": "@leedomjs/stylelint-config-mini-program",
+  "version": "0.0.0",
+  "description": "Leedom's Stylelint config presets",
+  "keywords": [
+    "stylelint-config",
+    "mini-program"
+  ],
+  "author": "Leedom",
+  "license": "MIT",
+  "homepage": "https://github.com/leedomjs/stylelint-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leedomjs/stylelint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leedomjs/stylelint-config/issues"
+  },
+  "main": "index.js",
+  "peerDependencies": {
+    "stylelint": ">= 14"
+  },
+  "devDependencies": {
+    "stylelint": "^16.3.1"
+  }
+}
