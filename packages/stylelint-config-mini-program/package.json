@@ -1,6 +1,6 @@
 {
   "name": "@leedomjs/stylelint-config-mini-program",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Leedom's Stylelint config presets",
   "keywords": [
     "stylelint-config",
