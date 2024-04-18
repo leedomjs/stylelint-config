@@ -3,8 +3,9 @@
 [![npm](https://img.shields.io/npm/v/@leedomjs/stylelint-config?color=333&label=)](https://www.npmjs.com/package/@leedomjs/stylelint-config)
 
 - css, sass, scss, Vue out-of-box
-- Auto fix for formatting
+- Single quotes
 - Also lint for acss, wxss (`css of mini-program`)
+- Auto fix for formatting
 - Only one-line of config
 
 ## Usage
