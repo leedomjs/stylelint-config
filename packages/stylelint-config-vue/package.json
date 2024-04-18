@@ -23,7 +23,6 @@
   },
   "dependencies": {
     "@leedomjs/stylelint-config-basic": "workspace:*",
-    "@leedomjs/stylelint-config-mini-program": "workspace:*",
     "@leedomjs/stylelint-config-scss": "workspace:*",
     "stylelint-config-recommended-vue": "^1.5.0"
   },

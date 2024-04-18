@@ -57,9 +57,6 @@ importers:
       stylelint-config-standard:
         specifier: ^36.0.0
         version: 36.0.0(stylelint@16.3.1)
-      stylelint-order:
-        specifier: ^6.0.4
-        version: 6.0.4(stylelint@16.3.1)
     devDependencies:
       stylelint:
         specifier: ^16.3.1
@@ -102,9 +99,6 @@ importers:
       '@leedomjs/stylelint-config-basic':
         specifier: workspace:*
         version: link:../stylelint-config-basic
-      '@leedomjs/stylelint-config-mini-program':
-        specifier: workspace:*
-        version: link:../stylelint-config-mini-program
       '@leedomjs/stylelint-config-scss':
         specifier: workspace:*
         version: link:../stylelint-config-scss
