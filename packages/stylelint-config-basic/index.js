@@ -9,6 +9,7 @@ module.exports = {
   ignoreFiles: ['**/*.{js,ts,json,yaml,md}'],
   rules: {
     'declaration-block-no-redundant-longhand-properties': null,
+    'font-family-no-missing-generic-family-keyword': null,
     'import-notation': 'string',
     'keyframes-name-pattern': null,
     'media-feature-name-no-unknown': null,
@@ -20,5 +21,6 @@ module.exports = {
     'rule-empty-line-before': 'always',
     'selector-class-pattern': null,
     '@stylistic/max-line-length': null,
+    '@stylistic/string-quotes': 'single',
   },
 }
