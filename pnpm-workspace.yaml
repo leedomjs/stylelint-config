@@ -1,2 +1,15 @@
 packages:
   - 'packages/*'
+catalog:
+  '@leedomjs/eslint-config-basic': '^0.12.3'
+  '@stylistic/stylelint-config': '^1.0.1'
+  'bumpp': '^9.5.2'
+  'eslint': '^8.57.0'
+  'lint-staged': '^15.2.10'
+  'simple-git-hooks': '^2.11.1'
+  'stylelint': '^16.3.1'
+  'stylelint-config-recess-order': '^5.1.0'
+  'stylelint-config-recommended-vue': '^1.5.0'
+  'stylelint-config-standard': '^36.0.1'
+  'stylelint-config-standard-scss': '^13.1.0'
+  'stylelint-scss': '^6.2.1'

@@ -22,6 +22,6 @@
     "tailwindcss": ">= 2.2.19"
   },
   "devDependencies": {
-    "stylelint": "^16.3.1"
+    "stylelint": "catalog:"
   }
 }

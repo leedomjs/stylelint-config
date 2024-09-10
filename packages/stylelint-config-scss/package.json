@@ -22,10 +22,10 @@
   },
   "dependencies": {
     "@leedomjs/stylelint-config-tailwindcss": "workspace:*",
-    "stylelint-config-standard-scss": "^13.1.0",
-    "stylelint-scss": "^6.2.1"
+    "stylelint-config-standard-scss": "catalog:",
+    "stylelint-scss": "catalog:"
   },
   "devDependencies": {
-    "stylelint": "^16.3.1"
+    "stylelint": "catalog:"
   }
 }

@@ -33,12 +33,12 @@
     "**/*.{css,scss,sass,acss,wxss,vue}": "stylelint --fix"
   },
   "devDependencies": {
-    "@leedomjs/eslint-config-basic": "^0.9.0",
+    "@leedomjs/eslint-config-basic": "catalog:",
     "@leedomjs/stylelint-config": "workspace:*",
-    "bumpp": "^9.4.0",
-    "eslint": "^8.57.0",
-    "lint-staged": "^15.2.2",
-    "simple-git-hooks": "^2.11.1",
-    "stylelint": "^16.3.1"
+    "bumpp": "catalog:",
+    "eslint": "catalog:",
+    "lint-staged": "catalog:",
+    "simple-git-hooks": "catalog:",
+    "stylelint": "catalog:"
   }
 }
